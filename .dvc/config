@@ -1,2 +1,4 @@
+[core]
+    remote = origin_local
 ['remote "origin_local"']
     url = /content/drive/MyDrive/tp3dvc/
