@@ -1,2 +1,6 @@
+[core]
+    remote = myremote
 ['remote "origin_local"']
     url = /content/tp3dvc
+['remote "myremote"']
+    url = gdrive:///content/drive/MyDrive/tp3dvc
