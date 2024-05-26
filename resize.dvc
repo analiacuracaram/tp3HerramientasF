@@ -1,0 +1,6 @@
+outs:
+- md5: e92ca3341d0189492eef0deefd474de1.dir
+  size: 1903112
+  nfiles: 71
+  hash: md5
+  path: resize
